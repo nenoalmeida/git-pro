@@ -1,0 +1,11 @@
+
+
+Sobre Controle de Versão
+
+     O controle de versao é um sistema que registra as mudanças em um arquivo ou cnjunto de arquivos ao lingo do tempo de forma que voce 
+possa recuperar versoes específicas. 
+     Ele permite reverter arquivo para um estado anterior, reverter um projeto inteiro para um estado anterior, comprar mudanças 
+feitas ao decorrer do tempo, ver quem foi o ultimo a modificar algo que pode estar causando problemas, quem introduziu um bug e quando,
+e muito mais.
+
+     
